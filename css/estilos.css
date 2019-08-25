@@ -16,10 +16,6 @@ body {
     background-color: #E60024;
 }
 
-.derecha {
-    margin-left: 2em;
-}
-
 .no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -64,13 +60,13 @@ header {
 }
 
 .titulo {
-    font-size: 2.5em;
+    font-size: 2.2em;
     font-weight: 700;
     color: white;
 }
 
 .subtitulo {
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 700;
     color: white;
 }
@@ -81,11 +77,11 @@ header {
 }
 
 .principal img {
-    width: 44em;
+    width: 19em;
 }
 
 .secundario img {
-    width: 21.1em;
+    width: 21.2em;
 }
 
 .footer {
